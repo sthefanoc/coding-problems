@@ -728,7 +728,7 @@ _[[back to list]](#Problems-List)_
 
 ## Problem 30
 
-### Algorith to justify text
+### Two-dimensional elevation map
 
 _Date: 2021-01-15_<br/>
 _Asked by **Facebook**_<br/>
@@ -744,6 +744,25 @@ Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2021-01-15-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 31
+
+### Algorith to justify text
+
+_Date: 2021-01-16_<br/>
+_Asked by **Google**_<br/>
+**[Easy]**
+
+The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions required to change one string to the other. For example, the edit distance between “kitten” and “sitting” is three: substitute the “k” for “s”, substitute the “e” for “i”, and append a “g”.
+
+Given two strings, compute the edit distance between them.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-16-solution.py)~~
 
 _[[back to list]](#Problems-List)_
 
