@@ -9,8 +9,7 @@ Below, the list of solved problems.
 ### Problem #1
 
 _Date: 2020-12-18_
-
-#### Asked by Google
+_Asked by **Google**_
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
