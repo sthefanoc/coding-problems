@@ -1,13 +1,13 @@
-# Coding problems solved in python
+# Coding problems solved using Python
 
 This is a repository filled with coding problems from [DailyCodingProblem](https://www.dailycodingproblem.com/) and [LeetCode](https://leetcode.com/).
 
 Below, the list of solved problems.
 
-| Source               | Company  | Problem                                                                                      | Status   | Solution                                              |
-| -------------------- | -------- | -------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------- |
-| _DailyCodingProblem_ | `Google` | [**Problem #1: Two numbers on list add to k**](### Problem #1: Two numbers on list add to k) | _SOLVED_ | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py) |
-| _DailyCodingProblem_ | `Uber`   | [**### Problem #2: Dynamic product array**](### ### Problem #2: Dynamic product array)       | _SOLVED_ | [SOLUTION](DailyCodingProblem/2020-12-19-solution.py) |
+| Source               | Company  | Problem                                                                                    | Status   | Solution                                              |
+| -------------------- | -------- | ------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------- |
+| _DailyCodingProblem_ | `Google` | [**Problem #1: Two numbers on list add to k**](#-Problem-#1:-Two-numbers-on-list-add-to-k) | _SOLVED_ | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py) |
+| _DailyCodingProblem_ | `Uber`   | [**### Problem #2: Dynamic product array**](#-Problem-#2:-Dynamic-product-array)           | _SOLVED_ | [SOLUTION](DailyCodingProblem/2020-12-19-solution.py) |
 
 ## Daily Coding Problem - Set
 
