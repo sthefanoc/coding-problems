@@ -4,11 +4,11 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 
 Below, the list of solved problems.
 
-| Source               | Company  | Difficulty | Problem                                                | Status   | Solution                                              |
-| -------------------- | -------- | ---------- | ------------------------------------------------------ | -------- | ----------------------------------------------------- |
-| _DailyCodingProblem_ | `Google` | EASY       | **[#001: Two numbers on list add to k](#Problem-001)** | _SOLVED_ | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py) |
-| _DailyCodingProblem_ | `Uber`   | HARD       | **[#002: Dynamic product array](#Problem-002)**        | _SOLVED_ | [SOLUTION](DailyCodingProblem/2020-12-19-solution.py) |
-| _DailyCodingProblem_ | `Google` | MEDIUM     | **[#003: Binary Tree Serializing](#Problem-003)**      | _SOLVED_ | SOLUTION                                              |
+| Source               | Company  | Difficulty | Problem                                                | Status       | Solution                                              |
+| -------------------- | -------- | ---------- | ------------------------------------------------------ | ------------ | ----------------------------------------------------- |
+| _DailyCodingProblem_ | `Google` | EASY       | **[#001: Two numbers on list add to k](#Problem-001)** | _SOLVED_     | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py) |
+| _DailyCodingProblem_ | `Uber`   | HARD       | **[#002: Dynamic product array](#Problem-002)**        | _SOLVED_     | [SOLUTION](DailyCodingProblem/2020-12-19-solution.py) |
+| _DailyCodingProblem_ | `Google` | MEDIUM     | **[#003: Binary Tree Serializing](#Problem-003)**      | ~~UNSOLVED~~ | SOLUTION                                              |
 
 # DAILY CODING PROBLEM
 
@@ -29,7 +29,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 _Bonus:_ Can you do this in one pass?
 
 **Status:** SOLVED.
-[SOLUTION](DailyCodingProblem/2020-12-18-solution.py).
+[SOLUTION](DailyCodingProblem/2020-12-17-solution.py).
 
 ---
 
@@ -47,7 +47,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 _Follow-up:_ what if you can't use division?
 
 **Status:** SOLVED.
-[SOLUTION](DailyCodingProblem/2020-12-19-solution.py).
+[SOLUTION](DailyCodingProblem/2020-12-18-solution.py).
 
 ---
 
