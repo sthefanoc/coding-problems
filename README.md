@@ -6,7 +6,7 @@ Below, the list of solved problems.
 
 ## Daily Coding Problem
 
-### Problem #1
+### Problem #1: Two numbers on list add to k
 
 _Date: 2020-12-18_<br/>
 _Asked by **Google**_
@@ -19,3 +19,16 @@ _Bonus:_ Can you do this in one pass?
 
 **Status:** SOLVED.
 [SOLUTION](DailyCodingProblem/2020-12-18-solution.py).
+
+### Problem #2: Dynamic product array
+
+_Date: 2020-12-19_<br/>
+_Asked by **Uber**_
+
+Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
+For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
+
+_Follow-up:_ what if you can't use division?
+
+**Status:** SOLVED.
+[SOLUTION](DailyCodingProblem/2020-12-19-solution.py).
