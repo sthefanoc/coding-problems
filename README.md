@@ -4,11 +4,12 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 
 Below, the list of solved problems.
 
-| Source               | Company  | Difficulty | Problem                                                | Status       | Solution                                              |
-| -------------------- | -------- | ---------- | ------------------------------------------------------ | ------------ | ----------------------------------------------------- |
-| _DailyCodingProblem_ | `Google` | EASY       | **[#001: Two numbers on list add to k](#Problem-001)** | _SOLVED_     | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py) |
-| _DailyCodingProblem_ | `Uber`   | HARD       | **[#002: Dynamic product array](#Problem-002)**        | _SOLVED_     | [SOLUTION](DailyCodingProblem/2020-12-19-solution.py) |
-| _DailyCodingProblem_ | `Google` | MEDIUM     | **[#003: Binary Tree Serializing](#Problem-003)**      | ~~UNSOLVED~~ | SOLUTION                                              |
+| Source               | Company  | Difficulty | Problem                                                | Status     | Solution                                              |
+| -------------------- | -------- | ---------- | ------------------------------------------------------ | ---------- | ----------------------------------------------------- |
+| _DailyCodingProblem_ | `Google` | EASY       | **[#001: Two numbers on list add to k](#Problem-001)** | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-17-solution.py) |
+| _DailyCodingProblem_ | `Uber`   | HARD       | **[#002: Dynamic product array](#Problem-002)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py) |
+| _DailyCodingProblem_ | `Google` | MEDIUM     | **[#003: Binary Tree Serializing](#Problem-003)**      | _UNSOLVED_ | ~~SOLUTION~~                                          |
+| _DailyCodingProblem_ | `Stripe` | HARD       | **[#004: Fist Missing Positive](#Problem-004)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-20-solution.py) |
 
 # DAILY CODING PROBLEM
 
@@ -76,6 +77,25 @@ assert deserialize(serialize(node)).left.left.val == 'left.left'
 ```
 
 **Status:** UNSOLVED.
-SOLUTION.
+~~SOLUTION.~~
+
+---
+
+## Problem 004
+
+### First Missing Positive
+
+_Date: 2020-12-20_<br/>
+_Asked by **Stripe**_<br/>
+**[Hard]**
+
+Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
+
+For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
+
+You can modify the input array in-place.
+
+**Status:** SOLVED.
+[SOLUTION](DailyCodingProblem/2020-12-20-solution.py).
 
 ---
