@@ -4,12 +4,13 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 
 Below, the list of solved problems.
 
-| Source               | Company  | Difficulty | Problem                                                | Status     | Solution                                              |
-| -------------------- | -------- | ---------- | ------------------------------------------------------ | ---------- | ----------------------------------------------------- |
-| _DailyCodingProblem_ | `Google` | EASY       | **[#001: Two numbers on list add to k](#Problem-001)** | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-17-solution.py) |
-| _DailyCodingProblem_ | `Uber`   | HARD       | **[#002: Dynamic product array](#Problem-002)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py) |
-| _DailyCodingProblem_ | `Google` | MEDIUM     | **[#003: Binary Tree Serializing](#Problem-003)**      | _UNSOLVED_ | ~~SOLUTION~~                                          |
-| _DailyCodingProblem_ | `Stripe` | HARD       | **[#004: Fist Missing Positive](#Problem-004)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-20-solution.py) |
+| Source               | Company       | Difficulty | Problem                                                | Status     | Solution                                                  |
+| -------------------- | ------------- | ---------- | ------------------------------------------------------ | ---------- | --------------------------------------------------------- |
+| _DailyCodingProblem_ | `Google`      | EASY       | **[#001: Two numbers on list add to k](#Problem-001)** | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-17-solution.py)     |
+| _DailyCodingProblem_ | `Uber`        | HARD       | **[#002: Dynamic product array](#Problem-002)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-18-solution.py)     |
+| _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#003: Binary Tree Serializing](#Problem-003)**      | _UNSOLVED_ | ~~SOLUTION~~                                              |
+| _DailyCodingProblem_ | `Stripe`      | HARD       | **[#004: Fist Missing Positive](#Problem-004)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-20-solution.py)     |
+| _DailyCodingProblem_ | `Jane Street` | MEDIUM     | **[#005: Nested functions return](#Problem-005)**      | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-21-solution.py)~~ |
 
 # DAILY CODING PROBLEM
 
@@ -97,5 +98,31 @@ You can modify the input array in-place.
 
 **Status:** SOLVED.
 [SOLUTION](DailyCodingProblem/2020-12-20-solution.py).
+
+---
+
+## Problem 005
+
+### Nested functions return
+
+_Date: 2020-12-21_<br/>
+_Asked by **Jane Street**_<br/>
+**[Medium]**
+
+cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that pair. For example, car(cons(3, 4)) returns 3, and cdr(cons(3, 4)) returns 4.
+
+Given this implementation of cons:
+
+```python
+def cons(a, b):
+    def pair(f):
+        return f(a, b)
+    return pair
+```
+
+Implement car and cdr.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2020-12-21-solution.py)~~
 
 ---
