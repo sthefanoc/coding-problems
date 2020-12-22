@@ -11,10 +11,9 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 | _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#003: Binary Tree Serializing](#Problem-003)**      | _UNSOLVED_ | ~~SOLUTION~~                                              |
 | _DailyCodingProblem_ | `Stripe`      | HARD       | **[#004: Fist Missing Positive](#Problem-004)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-20-solution.py)     |
 | _DailyCodingProblem_ | `Jane Street` | MEDIUM     | **[#005: Nested functions return](#Problem-005)**      | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-21-solution.py)~~ |
+| _DailyCodingProblem_ | `Google`      | HARD       | **[#006: XOR Linked List](#Problem-006)**              | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-22-solution.py)~~ |
 
 # DAILY CODING PROBLEM
-
-_[back to list](#Problems-List)_
 
 ---
 
@@ -141,7 +140,7 @@ _[back to list](#Problems-List)_
 
 ## Problem 006
 
-### Nested functions return
+### XOR Linked List
 
 _Date: 2020-12-22_<br/>
 _Asked by **Google**_<br/>
