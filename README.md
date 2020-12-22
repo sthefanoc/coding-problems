@@ -2,7 +2,7 @@
 
 This is a repository filled with coding problems from [DailyCodingProblem](https://www.dailycodingproblem.com/) and [LeetCode](https://leetcode.com/).
 
-Below, the list of solved problems.
+## Problems List
 
 | Source               | Company       | Difficulty | Problem                                                | Status     | Solution                                                  |
 | -------------------- | ------------- | ---------- | ------------------------------------------------------ | ---------- | --------------------------------------------------------- |
@@ -13,6 +13,8 @@ Below, the list of solved problems.
 | _DailyCodingProblem_ | `Jane Street` | MEDIUM     | **[#005: Nested functions return](#Problem-005)**      | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-21-solution.py)~~ |
 
 # DAILY CODING PROBLEM
+
+_[back to list](#Problems-List)_
 
 ---
 
@@ -33,6 +35,8 @@ _Bonus:_ Can you do this in one pass?
 **Status:** SOLVED.
 [SOLUTION](DailyCodingProblem/2020-12-17-solution.py).
 
+_[back to list](#Problems-List)_
+
 ---
 
 ## Problem 002
@@ -50,6 +54,8 @@ _Follow-up:_ what if you can't use division?
 
 **Status:** SOLVED.
 [SOLUTION](DailyCodingProblem/2020-12-18-solution.py).
+
+_[back to list](#Problems-List)_
 
 ---
 
@@ -80,6 +86,8 @@ assert deserialize(serialize(node)).left.left.val == 'left.left'
 **Status:** UNSOLVED.
 ~~SOLUTION.~~
 
+_[back to list](#Problems-List)_
+
 ---
 
 ## Problem 004
@@ -98,6 +106,8 @@ You can modify the input array in-place.
 
 **Status:** SOLVED.
 [SOLUTION](DailyCodingProblem/2020-12-20-solution.py).
+
+_[back to list](#Problems-List)_
 
 ---
 
@@ -124,5 +134,26 @@ Implement car and cdr.
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2020-12-21-solution.py)~~
+
+_[back to list](#Problems-List)_
+
+---
+
+## Problem 006
+
+### Nested functions return
+
+_Date: 2020-12-22_<br/>
+_Asked by **Google**_<br/>
+**[Hard]**
+
+An XOR linked list is a more memory efficient doubly linked list. Instead of each node holding next and prev fields, it holds a field named both, which is an XOR of the next node and the previous node. Implement an XOR linked list; it has an add(element) which adds the element to the end, and a get(index) which returns the node at index.
+
+If using a language that has no pointers (such as Python), you can assume you have access to get_pointer and dereference_pointer functions that converts between nodes and memory addresses.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2020-12-22-solution.py)~~
+
+_[back to list](#Problems-List)_
 
 ---
