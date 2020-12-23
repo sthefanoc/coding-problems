@@ -12,6 +12,7 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 | _DailyCodingProblem_ | `Stripe`      | HARD       | **[#004: Fist Missing Positive](#Problem-004)**        | _SOLVED_   | [SOLUTION](DailyCodingProblem/2020-12-20-solution.py)     |
 | _DailyCodingProblem_ | `Jane Street` | MEDIUM     | **[#005: Nested functions return](#Problem-005)**      | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-21-solution.py)~~ |
 | _DailyCodingProblem_ | `Google`      | HARD       | **[#006: XOR Linked List](#Problem-006)**              | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-22-solution.py)~~ |
+| _DailyCodingProblem_ | `Facebook`    | MEDIUM     | **[#007: Message Decoding](#Problem-007)**             | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-23-solution.py)~~ |
 
 # DAILY CODING PROBLEM
 
@@ -152,6 +153,27 @@ If using a language that has no pointers (such as Python), you can assume you ha
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2020-12-22-solution.py)~~
+
+_[back to list](#Problems-List)_
+
+---
+
+## Problem 007
+
+### Message Decoding
+
+_Date: 2020-12-23_<br/>
+_Asked by **Facebook**_<br/>
+**[Medium]**
+
+Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
+
+For example, the message '111' would give 3, since it could be decoded as 'aaa', 'ka', and 'ak'.
+
+You can assume that the messages are decodable. For example, '001' is not allowed.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2020-12-23-solution.py)~~
 
 _[back to list](#Problems-List)_
 
