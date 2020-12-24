@@ -13,6 +13,7 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 | _DailyCodingProblem_ | `Jane Street` | MEDIUM     | **[#005: Nested functions return](#Problem-005)**      | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-21-solution.py)~~ |
 | _DailyCodingProblem_ | `Google`      | HARD       | **[#006: XOR Linked List](#Problem-006)**              | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-22-solution.py)~~ |
 | _DailyCodingProblem_ | `Facebook`    | MEDIUM     | **[#007: Message Decoding](#Problem-007)**             | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-23-solution.py)~~ |
+| _DailyCodingProblem_ | `Google`      | EASY       | **[#008: Number of Unival Subtrees](#Problem-008)**    | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2020-12-24-solution.py)~~ |
 
 # DAILY CODING PROBLEM
 
@@ -176,5 +177,36 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 ~~[SOLUTION.](DailyCodingProblem/2020-12-23-solution.py)~~
 
 _[back to list](#Problems-List)_
+
+---
+
+## Problem 008
+
+### Number of Unival Subtrees
+
+_Date: 2020-12-24_<br/>
+_Asked by **Google**_<br/>
+**[Easy]**
+
+A unival tree (which stands for "universal value") is a tree where all nodes under it have the same value.
+
+Given the root to a binary tree, count the number of unival subtrees.
+
+For example, the following tree has 5 unival subtrees:
+
+```
+   0
+  / \
+ 1   0
+    / \
+   1   0
+  / \
+ 1   1
+```
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2020-12-24-solution.py)~~
+
+_[[back to list]](#Problems-List)_
 
 ---
