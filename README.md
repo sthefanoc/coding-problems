@@ -29,6 +29,7 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 | _DailyCodingProblem_ | `Snapchat`    | EASY       | **[#21: Rooms required for lectures](#Problem-21)**             | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-06-solution.py)~~ |
 | _DailyCodingProblem_ | `Microsoft`   | MEDIUM     | **[#22: String to list with dictionary](#Problem-22)**          | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-07-solution.py)~~ |
 | _DailyCodingProblem_ | `Google`      | EASY       | **[#23: Minimum steps from start to end](#Problem-23)**         | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-08-solution.py)~~ |
+| _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#24: Implement locking in binary tree](#Problem-24)**        | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-09-solution.py)~~ |
 
 # DAILY CODING PROBLEM
 
@@ -573,5 +574,29 @@ and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2021-01-08-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 24
+
+### Implement locking in binary tree
+
+_Date: 2021-01-09_<br/>
+_Asked by **Google**_<br/>
+**[Medium]**
+
+Implement locking in a binary tree. A binary tree node can be locked or unlocked only if all of its descendants or ancestors are not locked.
+
+Design a binary tree node class with the following methods:
+
+is_locked, which returns whether the node is locked
+lock, which attempts to lock the node. If it cannot be locked, then it should return false. Otherwise, it should lock it and return true.
+unlock, which unlocks the node. If it cannot be unlocked, then it should return false. Otherwise, it should unlock it and return true.
+You may augment the node to add parent pointers or any other property you would like. You may assume the class is used in a single-threaded program, so there is no need for actual locks or mutexes. Each method should run in O(h), where h is the height of the tree.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-09-solution.py)~~
 
 _[[back to list]](#Problems-List)_
