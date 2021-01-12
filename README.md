@@ -30,6 +30,8 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 | _DailyCodingProblem_ | `Microsoft`   | MEDIUM     | **[#22: String to list with dictionary](#Problem-22)**          | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-07-solution.py)~~ |
 | _DailyCodingProblem_ | `Google`      | EASY       | **[#23: Minimum steps from start to end](#Problem-23)**         | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-08-solution.py)~~ |
 | _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#24: Implement locking in binary tree](#Problem-24)**        | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-09-solution.py)~~ |
+| _DailyCodingProblem_ | `Facebook`    | HARD       | **[#25: Implement regular expression matching](#Problem-25)**   | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-10-solution.py)~~ |
+| _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#26: Remove kth item form linked list](#Problem-26)**        | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-11-solution.py)~~ |
 
 # DAILY CODING PROBLEM
 
