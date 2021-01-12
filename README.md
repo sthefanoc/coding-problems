@@ -600,3 +600,53 @@ You may augment the node to add parent pointers or any other property you would 
 ~~[SOLUTION.](DailyCodingProblem/2021-01-09-solution.py)~~
 
 _[[back to list]](#Problems-List)_
+
+---
+
+## Problem 25
+
+### Implement regular expression matching
+
+_Date: 2021-01-10_<br/>
+_Asked by **Facebook**_<br/>
+**[Hard]**
+
+Implement regular expression matching with the following special characters:
+
+```
+    . (period) which matches any single character
+    * (asterisk) which matches zero or more of the preceding element
+    That is, implement a function that takes in a string and a valid regular expression and returns whether or not the string matches the regular expression.
+```
+
+For example, given the regular expression "ra." and the string "ray", your function should return true. The same regular expression on the string "raymond" should return false.
+
+Given the regular expression ".\*at" and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-10-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 26
+
+### Remove kth item form linked list
+
+_Date: 2021-01-11_<br/>
+_Asked by **Google**_<br/>
+**[Medium]**
+
+Given a singly linked list and an integer k, remove the kth last element from the list. k is guaranteed to be smaller than the length of the list.
+
+The list is very long, so making more than one pass is prohibitively expensive.
+
+Do this in constant space and in one pass.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-11-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
