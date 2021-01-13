@@ -32,6 +32,8 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 | _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#24: Implement locking in binary tree](#Problem-24)**        | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-09-solution.py)~~ |
 | _DailyCodingProblem_ | `Facebook`    | HARD       | **[#25: Implement regular expression matching](#Problem-25)**   | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-10-solution.py)~~ |
 | _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#26: Remove kth item form linked list](#Problem-26)**        | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-11-solution.py)~~ |
+| _DailyCodingProblem_ | `Facebook`    | EASY       | **[#27: Check if brackets are well-formed](#Problem-27)**       | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-12-solution.py)~~ |
+| _DailyCodingProblem_ | `Palantir`    | MEDIUM     | **[#28: Algorith to justify text](#Problem-28)**                | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-13-solution.py)~~ |
 
 # DAILY CODING PROBLEM
 
@@ -648,6 +650,58 @@ Do this in constant space and in one pass.
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2021-01-11-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 27
+
+### Check if brackets are well-formed
+
+_Date: 2021-01-12_<br/>
+_Asked by **Facebook**_<br/>
+**[Easy]**
+
+Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed).
+
+For example, given the string "([])[]({})", you should return true.
+
+Given the string "([)]" or "((()", you should return false.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-12-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 28
+
+### Algorith to justify text
+
+_Date: 2021-01-13_<br/>
+_Asked by **Palantir**_<br/>
+**[Medium]**
+
+Write an algorithm to justify text. Given a sequence of words and an integer line length k, return a list of strings which represents each line, fully justified.
+
+More specifically, you should have as many words as possible in each line. There should be at least one space between each word. Pad extra spaces when necessary so that each line has exactly length k. Spaces should be distributed as equally as possible, with the extra spaces, if any, distributed starting from the left.
+
+If you can only fit one word on a line, then you should pad the right-hand side with spaces.
+
+Each word is guaranteed not to be longer than k.
+
+For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"] and k = 16, you should return the following:
+
+```
+["the  quick brown", # 1 extra space on the left
+"fox  jumps  over", # 2 extra spaces distributed evenly
+"the   lazy   dog"] # 4 extra spaces distributed evenly
+```
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-13-solution.py)~~
 
 _[[back to list]](#Problems-List)_
 
