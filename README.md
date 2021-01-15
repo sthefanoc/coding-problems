@@ -678,7 +678,7 @@ _[[back to list]](#Problems-List)_
 
 ## Problem 28
 
-### Algorith to justify text
+### Algorithm to justify text
 
 _Date: 2021-01-13_<br/>
 _Asked by **Palantir**_<br/>
@@ -687,7 +687,7 @@ _Asked by **Palantir**_<br/>
 Write an algorithm to justify text. Given a sequence of words and an integer line length k, return a list of strings which represents each line, fully justified.
 
 More specifically, you should have as many words as possible in each line. There should be at least one space between each word. Pad extra spaces when necessary so that each line has exactly length k. Spaces should be distributed as equally as possible, with the extra spaces, if any, distributed starting from the left.
-
+Facebook
 If you can only fit one word on a line, then you should pad the right-hand side with spaces.
 
 Each word is guaranteed not to be longer than k.
@@ -702,6 +702,48 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2021-01-13-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 29
+
+### Encoding and decoding at run-length
+
+_Date: 2021-01-14_<br/>
+_Asked by **Amazon**_<br/>
+**[Easy]**
+
+Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
+
+Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
+
+**Status:** SOLVED.
+[SOLUTION.](DailyCodingProblem/2021-01-14-solution.py)
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 30
+
+### Algorith to justify text
+
+_Date: 2021-01-15_<br/>
+_Asked by **Facebook**_<br/>
+**[Medium]**
+
+You are given an array of non-negative integers that represents a two-dimensional elevation map where each element is unit-width wall and the integer is the height. Suppose it will rain and all spots between two walls get filled up.
+
+Compute how many units of water remain trapped on the map in O(N) time and O(1) space.
+
+For example, given the input [2, 1, 2], we can hold 1 unit of water in the middle.
+
+Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-15-solution.py)~~
 
 _[[back to list]](#Problems-List)_
 
