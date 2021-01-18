@@ -751,7 +751,7 @@ _[[back to list]](#Problems-List)_
 
 ## Problem 31
 
-### Algorith to justify text
+### Distance between two strings
 
 _Date: 2021-01-16_<br/>
 _Asked by **Google**_<br/>
@@ -763,6 +763,25 @@ Given two strings, compute the edit distance between them.
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2021-01-16-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 32
+
+### Trading currencies Arbitrage
+
+_Date: 2021-01-17_<br/>
+_Asked by **Jane Street**_<br/>
+**[Hard]**
+
+Suppose you are given a table of currency exchange rates, represented as a 2D array. Determine whether there is a possible arbitrage: that is, whether there is some sequence of trades you can make, starting with some amount A of any currency, so that you can end up with some amount greater than A of that currency.
+
+There are no transaction costs and you can trade fractional quantities.
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-17-solution.py)~~
 
 _[[back to list]](#Problems-List)_
 
