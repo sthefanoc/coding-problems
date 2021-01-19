@@ -34,6 +34,11 @@ This is a repository filled with coding problems from [DailyCodingProblem](https
 | _DailyCodingProblem_ | `Google`      | MEDIUM     | **[#26: Remove kth item form linked list](#Problem-26)**        | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-11-solution.py)~~ |
 | _DailyCodingProblem_ | `Facebook`    | EASY       | **[#27: Check if brackets are well-formed](#Problem-27)**       | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-12-solution.py)~~ |
 | _DailyCodingProblem_ | `Palantir`    | MEDIUM     | **[#28: Algorith to justify text](#Problem-28)**                | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-13-solution.py)~~ |
+| _DailyCodingProblem_ | `Amazon`      | EASY       | **[#29: Encoding and decoding at run-length](#Problem-29)**     | _SOLVED_   | [SOLUTION](DailyCodingProblem/2021-01-14-solution.py)     |
+| _DailyCodingProblem_ | `Facebook`    | MEDIUM     | **[#30: Two-dimensional elevation map](#Problem-30)**           | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-15-solution.py)~~ |
+| _DailyCodingProblem_ | `Google`      | EASY       | **[#31: Distance between two strings](#Problem-31)**            | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-16-solution.py)~~ |
+| _DailyCodingProblem_ | `Jane Street` | HARD       | **[#32: Trading currencies Arbitrage](#Problem-32)**            | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-17-solution.py)~~ |
+| _DailyCodingProblem_ | `Microsoft`   | EASY       | **[#33: Median on a stream of numbers](#Problem-33)**           | _UNSOLVED_ | ~~[SOLUTION](DailyCodingProblem/2021-01-18-solution.py)~~ |
 
 # DAILY CODING PROBLEM
 
@@ -782,6 +787,37 @@ There are no transaction costs and you can trade fractional quantities.
 
 **Status:** UNSOLVED.
 ~~[SOLUTION.](DailyCodingProblem/2021-01-17-solution.py)~~
+
+_[[back to list]](#Problems-List)_
+
+---
+
+## Problem 33
+
+### Median on a stream of numbers
+
+_Date: 2021-01-18_<br/>
+_Asked by **Microsoft**_<br/>
+**[Easy]**
+
+Compute the running median of a sequence of numbers. That is, given a stream of numbers, print out the median of the list so far on each new element.
+
+Recall that the median of an even-numbered list is the average of the two middle numbers.
+
+For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should print out:
+
+```
+    2
+    1.5
+    2
+    3.5
+    2
+    2
+    2
+```
+
+**Status:** UNSOLVED.
+~~[SOLUTION.](DailyCodingProblem/2021-01-18-solution.py)~~
 
 _[[back to list]](#Problems-List)_
 
